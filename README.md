@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2mp2ia3rmt64wavg?svg=true)](https://ci.appveyor.com/project/Dina1109/webselenide)
